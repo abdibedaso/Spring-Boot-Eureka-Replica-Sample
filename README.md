@@ -1,5 +1,5 @@
-# Spring-Cloud-Spring-Boot-Eureka-Replica-Sample
-- Spring-Boot-Eureka-Replica-Sample
+# Spring-Cloud-Feign-Eureka-Replicas-Sample
+- Spring-Cloud-Feign-Eureka-Replicas-Sample
 
 ## Modules
 - AccountServiceWithEureka * 2
