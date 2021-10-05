@@ -1,5 +1,6 @@
 # Spring-Cloud-Feign-Eureka-Replicas-Sample
 - Spring-Cloud-Feign-Eureka-Replicas-Sample
+- Spring-Cloud Ribon Client Side Load Balancing in Feign
 
 ## Modules
 - AccountServiceWithEureka * 2
